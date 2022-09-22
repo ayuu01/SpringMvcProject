@@ -78,7 +78,7 @@
                       <configuration>  
                        <archive>  
                        <manifest>  
-                        <mainClass>com.javatpoint.AppMain</mainClass>  
+                        <mainClass>com.assignment.controller.UserController</mainClass>  
                        </manifest>  
                        </archive>  
                       </configuration>  
